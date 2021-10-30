@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 - 🔭 I’m currently working on LMS 
 - 🌱 I’m currently learning User experience design
@@ -8,4 +8,4 @@
 - 💬 Ask me about Design
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: him/his
--->!
+
